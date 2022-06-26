@@ -1,6 +1,6 @@
 ${NETWORK_NAME}="ansible_test_net"
-${TARGET_IMAGE_NAME}="peco602/winrm-windows-docker:1809"
-${ANSIBLE_IMAGE_NAME}="ansible-windows:1809"
+${TARGET_IMAGE_NAME}="peco602/winrm-windows-docker:latest"
+${ANSIBLE_IMAGE_NAME}="ansible-windows:ltsc2022"
 
 function Show-Info($message) {
     Write-Host " [+] ${message}" -ForegroundColor green

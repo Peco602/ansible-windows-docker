@@ -1,5 +1,3 @@
-![Test](https://github.com/Peco602/ansible-windows-docker/actions/workflows/test.yml/badge.svg)
-
 # Ansible Windows Docker image
 
 Run Ansible in a Windows container.

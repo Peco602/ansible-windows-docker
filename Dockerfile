@@ -1,4 +1,4 @@
-FROM mcr.microsoft.com/windows/servercore:1809
+FROM mcr.microsoft.com/windows/servercore:ltsc2022
 
 LABEL name="Ansible Windows Container"
 LABEL description="This container is a Windows container designed to run Ansible."

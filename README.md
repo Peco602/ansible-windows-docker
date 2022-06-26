@@ -37,7 +37,7 @@ docker run --rm --mount type="bind",source="$PWD\ansible",target="c:/tools/cygwi
 
 ## DockerHub
 
-- [peco602/ansible-windows-docker](https://hub.docker.com/repository/docker/peco602/ansible-windows-docker)
+- [peco602/ansible-windows-docker](https://hub.docker.com/r/peco602/ansible-windows-docker)
 
 
 ## Bibliography

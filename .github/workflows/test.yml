@@ -14,4 +14,4 @@ jobs:
 
     - name: Test
       working-directory: ${{github.workspace}}
-      run: powershell -ep bypass ./test.ps1
+      run: powershell -ep bypass .\test_pull.ps1
